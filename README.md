@@ -28,7 +28,7 @@ How to use it:
 python3 wifi-scan.py
 
 {'SOME WIFI': {'BSSID': '11:11:11:11:11:11', 'RSSI': -45},
- 'ANOTHER_WIFI': {'BSSID': '11:11:11:11:11:11', 'RSSI': -57}
+ 'ANOTHER_WIFI': {'BSSID': '11:11:11:11:11:11', 'RSSI': -57}}
 
 ```
 
