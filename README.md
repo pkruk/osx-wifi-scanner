@@ -1,6 +1,6 @@
 # Mac OS Wifi Scanner
 
-There is no `iwlist` on Mac OS, that is why I created my own script to get all SSID around me via cli ;) 
+There is no `iwlist` on Mac OS, that is why I've created my own script to get all SSID around me via cli ;) 
 
 
 ## Prerequisites:
