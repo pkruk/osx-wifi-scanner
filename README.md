@@ -1,6 +1,6 @@
-# OS-X Wifi-Scan
+# Mac OS Wifi-Scanner
 
-There is no iwlist on OSx, so I create my own script to get all SSID around me via cli ;) 
+There is no iwlist on Mac OS, so I create my own script to get all SSID around me via cli ;) 
 
 
 ## How to use it:
@@ -32,7 +32,7 @@ python3 wifi-scan.py
 
 ```
 
-Also I support `filter` arg which you can pass to get concrete SSID.
+Wifi-scan.py support `filter` argument, which can be used to find any particular SSID.
 
 ```bash
 python3 wifi-scan.py -f SOME_WIFI
