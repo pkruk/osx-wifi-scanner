@@ -1,11 +1,11 @@
-# Mac OS Wifi-Scanner
+# Mac OS Wifi Scanner
 
 There is no `iwlist` on Mac OS, that is why I created my own script to get all SSID around me via cli ;) 
 
 
-## How to use it:
+## Prerequisites:
 
-First of all, install requirements:
+Before running anything, check out the `requirements.txt` and make sure you have everything neccessary to run this script installed. To install all needed requirements:
 
 ```bash
 pip install -r requirements.txt
